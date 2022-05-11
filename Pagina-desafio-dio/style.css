@@ -1,0 +1,12 @@
+#inicio {
+    background-color: rgba(142, 139, 139, 0.842);
+    color: black;
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+#meta {
+    background-color: antiquewhite;
+    text-decoration: underline;
+}
